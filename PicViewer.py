@@ -112,9 +112,9 @@ class ImageViewer:
 
     def zoom_image(self, event):
         if event.delta > 0 or event.num == 4:
-            self.zoom_level = min(self.zoom_level * 1.1, self.max_zoom)
+            self.zoom_level = min(self.zoom_level * 1.02, self.max_zoom)
         elif event.delta < 0 or event.num == 5:
-            self.zoom_level = max(self.zoom_level / 1.1, self.min_zoom)
+            self.zoom_level = max(self.zoom_level / 1.02, self.min_zoom)
         self.update_image()
 
     def next_image(self, event=None):
