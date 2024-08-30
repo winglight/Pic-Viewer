@@ -5,8 +5,7 @@ Pic-Viewer 是一个开源的图像查看器，旨在提供简单高效的使用
 
 ## 特别说明
 
-本代码100%来自AI（ChatGPT）的协助生成，另有文档说明整个过程：[AI助我写代码（2）：图片浏览器
-](https://www.broyustudio.com/2024/08/29/AI-Help-Pic-Viwer.html)
+本代码100%来自AI（ChatGPT）的协助生成，另有文档说明整个过程：[AI助我写代码（2）：图片浏览器](https://www.broyustudio.com/2024/08/29/AI-Help-Pic-Viwer.html)
 
 ## 功能特点
 
